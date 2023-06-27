@@ -4,9 +4,8 @@
 
 ### dzialanie mojej aplikacji
 
-    Moja aplikacja bedzie prezentacja algorytmu sortowania babelkowego oraz przeszukania binarnego tablicy.
-    Program ten wylosuje tablice z podanego przez uzytkownika zakresu i posotuje ja potem uzytkonik wybierze
-    dowolny element tablicy i program zwroci indeks tego elementu.
+    Moja aplikacja bedzie prezentacja algorytmu sortowania babelkowego .
+    Program ten wylosuje tablice z podanego przez uzytkownika zakresu i posotuje ja.
 
 ### jak uruchomic aplikacje
 
